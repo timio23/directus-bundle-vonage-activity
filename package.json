@@ -13,6 +13,11 @@
 				"type": "panel",
 				"name": "directus-panel-vonage-activity",
 				"source": "src/directus-panel-vonage-activity/index.js"
+			},
+			{
+				"type": "endpoint",
+				"name": "directus-endpoint-vonage",
+				"source": "src/directus-endpoint-vonage"
 			}
 		]
 	},
