@@ -17,7 +17,7 @@
 			{
 				"type": "endpoint",
 				"name": "directus-endpoint-vonage",
-				"source": "src/directus-endpoint-vonage"
+				"source": "src/directus-endpoint-vonage/index.js"
 			}
 		]
 	},
